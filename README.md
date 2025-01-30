@@ -6,10 +6,14 @@
 </p>
 
 <h2>📌 Features</h2>
- <p>✅ Select your birthdate using a date picker
+ <p>
+  <li>
+     ✅ Select your birthdate using a date picker
 ✅ Calculates your age in years, months, and days
 ✅ Displays the result instantly ⚡
 ✅ Mobile-friendly & responsive design 🎨
+</li>
+
 </p> 
 
 <h2>🛠️ Technologies Used</h2>
