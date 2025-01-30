@@ -1,4 +1,4 @@
-*** 🎂 Age Calculator 🕒  ***
+<h1 align:centre> 🎂 Age Calculator 🕒 </h1> 
 
 
 A simple Age Calculator built using HTML, CSS, and JavaScript! 🚀 This project helps users determine their exact age in years, months, and days by selecting their birthdate.
