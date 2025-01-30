@@ -19,19 +19,32 @@
 
 <h2>🛠️ Technologies Used</h2>
 <p>
-  HTML 🏗️ – Structure of the webpage
-CSS 🎨 – Styling for a clean UI
-JavaScript ⚡ – Logic for age calculation
+<li> HTML 🏗️ – Structure of the webpage</li> 
+<li>CSS 🎨 – Styling for a clean UI</li>
+<li>JavaScript ⚡ – Logic for age calculation
+</li>
 </p>
 
 <h2>🚀 How to Use</h2>
-<p>Enter your birthdate in the input field 📅
-Click on the "Calculate" button 🔘
-See your age displayed instantly! 🎉
+<p>
+ <li>Enter your birthdate in the input field 📅
+</li>
+
+<li>Click on the "Calculate" button 🔘
+</li>
+<li>See your age displayed instantly! 🎉
+</li>
+
+
 📷 Preview</p>
 
 <h2>🌟 Why I Built This?</h2>
-<p>This project is part of my learning journey in web development. It helped me understand DOM manipulation, date functions, and event handling in JavaScript. 💡
+<p>
+ <li>This project is part of my learning journey in web development. 
+</li>
+<li> It helped me understand DOM manipulation, date functions, and event handling in JavaScript. 💡
+
+</li>
 
 </p>
 
