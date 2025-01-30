@@ -22,4 +22,4 @@ See your age displayed instantly! 🎉
 🌟 Why I Built This?
 This project is part of my learning journey in web development. It helped me understand DOM manipulation, date functions, and event handling in JavaScript. 💡
 
-
+![Age Calculator Screenshot](screenshot(74).png)
